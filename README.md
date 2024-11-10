@@ -12,4 +12,8 @@ The dataset includes various HR-related metrics such as employee demographics, s
 ### **Tools Used:**
 **Power BI:** For creating the dashboard and visualizing the insights.
 
-Feel free to explore the .pbix file to interact with the dashboard and customize it for further insights.
+### Contact
+Feel free to reach out if you have any questions or would like to connect!
+
+LinkedIn: https://www.linkedin.com/in/mudhassir-s/
+Email: mudhassirofficial@gmail.com
