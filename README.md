@@ -15,5 +15,5 @@ The dataset includes various HR-related metrics such as employee demographics, s
 ### Contact
 Feel free to reach out if you have any questions or would like to connect!
 
-LinkedIn: https://www.linkedin.com/in/mudhassir-s/
+LinkedIn: https://www.linkedin.com/in/mudhassir-s/<br>
 Email: mudhassirofficial@gmail.com
