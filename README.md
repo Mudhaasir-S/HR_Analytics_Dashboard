@@ -1,4 +1,6 @@
-# **HR Analytics Dashboard - Power BI**
+<h1 align="center">HR Analytics Dashboard - Power BI</h1>
+<img width="889" height="497" alt="image" src="https://github.com/user-attachments/assets/3ef20024-3798-401a-af5f-c34f1d24213d" />
+
 This project demonstrates an HR analytics dashboard built using Power BI, focusing on employee attrition, performance ratings, job satisfaction, and salary hike analysis. The dashboard is designed to provide actionable insights for HR teams to understand key factors impacting employee retention and performance.
 
 ### **Key Features:**
